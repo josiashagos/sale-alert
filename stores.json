@@ -1,0 +1,193 @@
+{
+  "stores": [
+    {
+      "name": "H&M Men",
+      "category": "swedish_mass_market",
+      "sale_url": "https://www2.hm.com/sv_se/herr/kampanjer-erbjudanden/rea.html",
+      "keywords": ["REA", "SALE", "% rabatt", "rabatt"],
+      "enabled": true
+    },
+    {
+      "name": "COS Men",
+      "category": "swedish_mass_market",
+      "sale_url": "https://www.cos.com/sv-se/men/sale.html",
+      "keywords": ["SALE", "REA", "% off"],
+      "enabled": true
+    },
+    {
+      "name": "Arket Men",
+      "category": "swedish_mass_market",
+      "sale_url": "https://www.arket.com/sv-se/men/sale.html",
+      "keywords": ["SALE", "REA"],
+      "enabled": true
+    },
+    {
+      "name": "Weekday Men",
+      "category": "swedish_mass_market",
+      "sale_url": "https://www.weekday.com/sv-se/men/sale.html",
+      "keywords": ["SALE", "REA"],
+      "enabled": true
+    },
+    {
+      "name": "Zara Man",
+      "category": "international_fast_fashion",
+      "sale_url": "https://www.zara.com/se/sv/man-sale-l806.html",
+      "keywords": ["SALE", "REA", "% off"],
+      "enabled": true
+    },
+    {
+      "name": "Mango Man",
+      "category": "international_fast_fashion",
+      "sale_url": "https://shop.mango.com/se/man/sale",
+      "keywords": ["SALE", "REA", "% off"],
+      "enabled": true
+    },
+    {
+      "name": "Uniqlo Men",
+      "category": "international_fast_fashion",
+      "sale_url": "https://www.uniqlo.com/se/en/men/sale",
+      "keywords": ["SALE", "REA", "LIMITED OFFER"],
+      "enabled": true
+    },
+    {
+      "name": "Massimo Dutti Men",
+      "category": "international_fast_fashion",
+      "sale_url": "https://www.massimodutti.com/se/men/sale-n1805",
+      "keywords": ["SALE", "REA"],
+      "enabled": true
+    },
+    {
+      "name": "Our Legacy",
+      "category": "scandinavian_brands",
+      "sale_url": "https://www.ourlegacy.com/sale",
+      "keywords": ["SALE", "ARCHIVE"],
+      "enabled": true
+    },
+    {
+      "name": "Samsoe Samsoe",
+      "category": "scandinavian_brands",
+      "sale_url": "https://www.samsoe.com/sv/man/sale/",
+      "keywords": ["SALE", "REA"],
+      "enabled": true
+    },
+    {
+      "name": "Acne Studios",
+      "category": "scandinavian_brands",
+      "sale_url": "https://www.acnestudios.com/se/en/man/sale/",
+      "keywords": ["SALE", "ARCHIVE"],
+      "enabled": true
+    },
+    {
+      "name": "Norse Projects",
+      "category": "scandinavian_brands",
+      "sale_url": "https://www.norseprojects.com/collection/men-sale",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "NN07",
+      "category": "scandinavian_brands",
+      "sale_url": "https://www.nn07.com/en/men/sale",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "END Clothing",
+      "category": "premium",
+      "sale_url": "https://www.endclothing.com/se/sale",
+      "keywords": ["SALE", "% OFF"],
+      "enabled": true
+    },
+    {
+      "name": "Louis Vuitton",
+      "category": "premium",
+      "sale_url": "https://eu.louisvuitton.com/swe-se/men/_/N-t15mfk3d",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Mr Porter",
+      "category": "premium",
+      "sale_url": "https://www.mrporter.com/en-se/mens/sale",
+      "keywords": ["SALE", "% OFF"],
+      "enabled": true
+    },
+    {
+      "name": "SSENSE",
+      "category": "premium",
+      "sale_url": "https://www.ssense.com/en-se/men/sale",
+      "keywords": ["SALE", "% OFF"],
+      "enabled": true
+    },
+    {
+      "name": "Matches",
+      "category": "premium",
+      "sale_url": "https://www.matchesfashion.com/mens/sale",
+      "keywords": ["SALE", "% OFF"],
+      "enabled": true
+    },
+    {
+      "name": "Boozt Men",
+      "category": "swedish_online",
+      "sale_url": "https://www.boozt.com/se/sv/herr/rea",
+      "keywords": ["REA", "SALE", "% rabatt"],
+      "enabled": true
+    },
+    {
+      "name": "Zalando Men",
+      "category": "swedish_online",
+      "sale_url": "https://www.zalando.se/herr-rea/",
+      "keywords": ["REA", "SALE", "% rabatt"],
+      "enabled": true
+    },
+    {
+      "name": "Caliroots",
+      "category": "swedish_online",
+      "sale_url": "https://caliroots.com/sale",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Tres Bien",
+      "category": "swedish_online",
+      "sale_url": "https://tres-bien.com/sale",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "NK Herr",
+      "category": "department_stores",
+      "sale_url": "https://www.nk.se/herr/rea",
+      "keywords": ["REA", "SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Ahlens Herr",
+      "category": "department_stores",
+      "sale_url": "https://www.ahlens.se/mode/herr/rea/",
+      "keywords": ["REA", "SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Sneakersnstuff",
+      "category": "sneakers",
+      "sale_url": "https://www.sneakersnstuff.com/en/sale",
+      "keywords": ["SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Footish",
+      "category": "sneakers",
+      "sale_url": "https://www.footish.se/rea",
+      "keywords": ["REA", "SALE"],
+      "enabled": true
+    },
+    {
+      "name": "Solebox",
+      "category": "sneakers",
+      "sale_url": "https://www.solebox.com/en/sale/",
+      "keywords": ["SALE"],
+      "enabled": true
+    }
+  ]
+}
