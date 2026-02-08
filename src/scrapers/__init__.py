@@ -8,6 +8,9 @@ from .premium import PREMIUM_SCRAPERS
 from .swedish_online import SWEDISH_ONLINE_SCRAPERS
 from .department import DEPARTMENT_SCRAPERS
 from .sneakers import SNEAKER_SCRAPERS
+from .sportswear import SPORTSWEAR_SCRAPERS
+from .swedish_menswear import SWEDISH_MENSWEAR_SCRAPERS
+from .multibrand import MULTIBRAND_SCRAPERS
 
 # Collect all scrapers
 ALL_SCRAPERS = (
@@ -18,6 +21,9 @@ ALL_SCRAPERS = (
     + SWEDISH_ONLINE_SCRAPERS
     + DEPARTMENT_SCRAPERS
     + SNEAKER_SCRAPERS
+    + SPORTSWEAR_SCRAPERS
+    + SWEDISH_MENSWEAR_SCRAPERS
+    + MULTIBRAND_SCRAPERS
 )
 
 
@@ -47,4 +53,7 @@ __all__ = [
     "SWEDISH_ONLINE_SCRAPERS",
     "DEPARTMENT_SCRAPERS",
     "SNEAKER_SCRAPERS",
+    "SPORTSWEAR_SCRAPERS",
+    "SWEDISH_MENSWEAR_SCRAPERS",
+    "MULTIBRAND_SCRAPERS",
 ]
