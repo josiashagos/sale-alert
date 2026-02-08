@@ -1,4 +1,203 @@
 {
-  "sales": {},
-  "last_check": null
+  "sales": {
+    "H&M Men": {
+      "active": true,
+      "store_name": "H&M Men",
+      "url": "https://www2.hm.com/sv_se/herr/kampanjer-erbjudanden/rea.html",
+      "description": "Sale active (rea, erbjudande)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:16.031449",
+      "last_seen": "2026-02-08T19:07:16.031456"
+    },
+    "COS Men": {
+      "active": true,
+      "store_name": "COS Men",
+      "url": "https://www.cos.com/sv-se/men/sale.html",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:19.498046",
+      "last_seen": "2026-02-08T19:07:19.498052"
+    },
+    "Arket Men": {
+      "active": true,
+      "store_name": "Arket Men",
+      "url": "https://www.arket.com/sv-se/men/sale.html",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:22.981838",
+      "last_seen": "2026-02-08T19:07:22.981845"
+    },
+    "Weekday Men": {
+      "active": true,
+      "store_name": "Weekday Men",
+      "url": "https://www.weekday.com/sv-se/men/sale.html",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:26.346347",
+      "last_seen": "2026-02-08T19:07:26.346354"
+    },
+    "Zara Man": {
+      "active": true,
+      "store_name": "Zara Man",
+      "url": "https://www.zara.com/se/sv/man-sale-l806.html",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:29.528543",
+      "last_seen": "2026-02-08T19:07:29.528550"
+    },
+    "Mango Man": {
+      "active": true,
+      "store_name": "Mango Man",
+      "url": "https://shop.mango.com/se/man/sale",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:07:32.810265",
+      "last_seen": "2026-02-08T19:07:32.810271"
+    },
+    "Massimo Dutti Men": {
+      "active": true,
+      "store_name": "Massimo Dutti Men",
+      "url": "https://www.massimodutti.com/se/men/sale-n1805",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:08:36.555303",
+      "last_seen": "2026-02-08T19:08:36.555309"
+    },
+    "Samsoe Samsoe": {
+      "active": true,
+      "store_name": "Samsoe Samsoe",
+      "url": "https://www.samsoe.com/sv/man/sale/",
+      "description": "Up to 10% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:08:49.088502",
+      "last_seen": "2026-02-08T19:08:49.088510"
+    },
+    "Mr Porter": {
+      "active": true,
+      "store_name": "Mr Porter",
+      "url": "https://www.mrporter.com/en-se/mens/sale",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:11:07.816270",
+      "last_seen": "2026-02-08T19:11:07.816277"
+    },
+    "SSENSE": {
+      "active": true,
+      "store_name": "SSENSE",
+      "url": "https://www.ssense.com/en-se/men/sale",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:11:14.162783",
+      "last_seen": "2026-02-08T19:11:14.162793"
+    },
+    "Boozt Men": {
+      "active": true,
+      "store_name": "Boozt Men",
+      "url": "https://www.boozt.com/se/sv/herr/rea",
+      "description": "Sale active (rabatt)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:11:25.211777",
+      "last_seen": "2026-02-08T19:11:25.211787"
+    },
+    "Tres Bien": {
+      "active": true,
+      "store_name": "Tres Bien",
+      "url": "https://tres-bien.com/sale",
+      "description": "Up to 70% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:12:25.323762",
+      "last_seen": "2026-02-08T19:12:25.323772"
+    },
+    "NK Herr": {
+      "active": true,
+      "store_name": "NK Herr",
+      "url": "https://www.nk.se/herr/rea",
+      "description": "Up to 70% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:12:32.779491",
+      "last_seen": "2026-02-08T19:12:32.779501"
+    },
+    "Ahlens Herr": {
+      "active": true,
+      "store_name": "Ahlens Herr",
+      "url": "https://www.ahlens.se/mode/herr/rea/",
+      "description": "Up to 20% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:12:39.612185",
+      "last_seen": "2026-02-08T19:12:39.612192"
+    },
+    "Sneakersnstuff": {
+      "active": true,
+      "store_name": "Sneakersnstuff",
+      "url": "https://www.sneakersnstuff.com/en/sale",
+      "description": "Up to 70% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:12:45.358962",
+      "last_seen": "2026-02-08T19:12:45.358969"
+    },
+    "Footish": {
+      "active": true,
+      "store_name": "Footish",
+      "url": "https://www.footish.se/rea",
+      "description": "Up to 80% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:13:01.605809",
+      "last_seen": "2026-02-08T19:13:01.605818"
+    },
+    "Solebox": {
+      "active": true,
+      "store_name": "Solebox",
+      "url": "https://www.solebox.com/en/sale/",
+      "description": "Sale active (sale)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:13:11.934887",
+      "last_seen": "2026-02-08T19:13:11.934894"
+    },
+    "Nike": {
+      "active": true,
+      "store_name": "Nike",
+      "url": "https://www.nike.com/se/w/mens-sale-3yaepznik1",
+      "description": "Up to 50% off",
+      "item_count": 24,
+      "first_seen": "2026-02-08T19:13:20.995404",
+      "last_seen": "2026-02-08T19:13:20.995412"
+    },
+    "ETON": {
+      "active": true,
+      "store_name": "ETON",
+      "url": "https://www.etonshirts.com/se/sale",
+      "description": "Sale active (rea)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:14:33.925262",
+      "last_seen": "2026-02-08T19:14:33.925270"
+    },
+    "Oscar Jacobson": {
+      "active": true,
+      "store_name": "Oscar Jacobson",
+      "url": "https://www.oscarjacobson.com/se/sale",
+      "description": "Up to 60% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:14:39.904775",
+      "last_seen": "2026-02-08T19:14:39.904782"
+    },
+    "Brixtol Textiles": {
+      "active": true,
+      "store_name": "Brixtol Textiles",
+      "url": "https://www.brixtoltextiles.com/sale",
+      "description": "Sale active (rea)",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:15:49.786231",
+      "last_seen": "2026-02-08T19:15:49.786240"
+    },
+    "Care of Carl": {
+      "active": true,
+      "store_name": "Care of Carl",
+      "url": "https://www.careofcarl.se/sv/sale/",
+      "description": "Up to 70% off",
+      "item_count": 0,
+      "first_seen": "2026-02-08T19:15:57.078604",
+      "last_seen": "2026-02-08T19:15:57.078613"
+    }
+  },
+  "last_check": "2026-02-08T19:15:57.366871"
 }
