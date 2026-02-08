@@ -8,6 +8,9 @@ on:
     - cron: '0 17 * * *'  # 6:00 PM CET (17:00 UTC)
   workflow_dispatch:  # Allow manual triggers
 
+permissions:
+  contents: write
+
 jobs:
   check-sales:
     runs-on: ubuntu-latest
