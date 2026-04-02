@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-04-02T08:10:34.834467"
+      "last_seen": "2026-04-02T17:46:27.321471"
     },
     "Boozt Men": {
       "active": true,
@@ -131,9 +131,9 @@
       "active": true,
       "store_name": "Sneakersnstuff",
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
-      "description": "REA pågår",
+      "description": "Upp till 20% rabatt",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-04-02T08:11:59.280323"
+      "last_seen": "2026-04-02T17:47:51.212071"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-04-02T08:12:04.502720"
+      "last_seen": "2026-04-02T17:47:56.062676"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/sale-2775",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-04-02T08:12:12.125677"
+      "last_seen": "2026-04-02T17:48:02.938645"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted//",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-04-02T08:12:42.494693"
+      "last_seen": "2026-04-02T17:49:17.156790"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,7 +212,7 @@
       "url": "https://www.endclothing.com/se/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-04-02T08:10:25.830227"
+      "last_seen": "2026-04-02T17:46:17.570860"
     },
     "Boozt Herr": {
       "active": true,
@@ -220,7 +220,7 @@
       "url": "https://www.boozt.com/se/sv/klader-for-kvinnor/erbjudanden",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-04-02T08:10:45.552903"
+      "last_seen": "2026-04-02T17:46:38.136620"
     },
     "Caliroots": {
       "active": true,
@@ -228,7 +228,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-04-02T08:11:38.818597"
+      "last_seen": "2026-04-02T17:47:31.067857"
     },
     "Très Bien": {
       "active": true,
@@ -236,7 +236,7 @@
       "url": "https://tres-bien.com/en-us/collections/sales",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-04-02T08:11:41.885160"
+      "last_seen": "2026-04-02T17:47:34.368033"
     },
     "Nike Herr": {
       "active": true,
@@ -244,7 +244,7 @@
       "url": "https://www.nike.com/se/w/rea-3yaep",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-04-02T08:12:16.800545"
+      "last_seen": "2026-04-02T17:48:08.754870"
     },
     "Grandpa": {
       "active": true,
@@ -252,7 +252,7 @@
       "url": "https://www.grandpastore.com/se/sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-04-02T08:12:32.380468"
+      "last_seen": "2026-04-02T17:49:07.032808"
     },
     "Åhléns Herr": {
       "active": true,
@@ -260,7 +260,7 @@
       "url": "https://www.ahlens.se/rea",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-04-02T08:11:55.553685"
+      "last_seen": "2026-04-02T17:47:47.293736"
     },
     "Samsøe Samsøe": {
       "active": true,
@@ -268,8 +268,8 @@
       "url": "javascript:TogglePage(this, 'coiPage-3');",
       "description": "Upp till 40% rabatt",
       "first_seen": "2026-03-23T08:04:47.302902",
-      "last_seen": "2026-04-02T08:09:46.759995"
+      "last_seen": "2026-04-02T17:45:38.166961"
     }
   },
-  "last_check": "2026-04-02T08:13:07.415925"
+  "last_check": "2026-04-02T17:49:43.260026"
 }
