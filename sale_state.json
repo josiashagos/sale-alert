@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-04-10T08:23:53.102824"
+      "last_seen": "2026-04-10T17:44:51.088489"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +133,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-04-10T08:25:15.299582"
+      "last_seen": "2026-04-10T17:46:15.709833"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-04-10T08:25:20.259035"
+      "last_seen": "2026-04-10T17:46:20.696838"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/sale-2775",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-04-10T08:25:27.908995"
+      "last_seen": "2026-04-10T17:46:29.721809"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted//",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-04-10T08:25:58.116297"
+      "last_seen": "2026-04-10T17:47:43.316631"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -210,17 +210,17 @@
       "active": true,
       "store_name": "END Clothing",
       "url": "https://www.endclothing.com/se/sale",
-      "description": "Upp till 15% rabatt",
+      "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-04-10T08:23:42.976304"
+      "last_seen": "2026-04-10T17:44:41.825692"
     },
     "Boozt Herr": {
       "active": true,
       "store_name": "Boozt Herr",
       "url": "https://www.boozt.com/se/sv/klader-for-kvinnor/erbjudanden",
-      "description": "REA pågår",
+      "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-04-10T08:24:04.484749"
+      "last_seen": "2026-04-10T17:45:02.604019"
     },
     "Caliroots": {
       "active": true,
@@ -228,7 +228,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-04-10T08:24:54.631357"
+      "last_seen": "2026-04-10T17:45:51.861396"
     },
     "Très Bien": {
       "active": true,
@@ -236,7 +236,7 @@
       "url": "https://tres-bien.com/en-us/collections/sales",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-04-10T08:24:58.172753"
+      "last_seen": "2026-04-10T17:45:55.329434"
     },
     "Nike Herr": {
       "active": true,
@@ -244,7 +244,7 @@
       "url": "https://www.nike.com/se/w/rea-3yaep",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-04-10T08:25:32.889933"
+      "last_seen": "2026-04-10T17:46:34.867442"
     },
     "Grandpa": {
       "active": true,
@@ -252,15 +252,16 @@
       "url": "https://www.grandpastore.com/se/sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-04-10T08:25:47.869153"
+      "last_seen": "2026-04-10T17:47:32.497248"
     },
     "Åhléns Herr": {
-      "active": true,
+      "active": false,
       "store_name": "Åhléns Herr",
       "url": "https://www.ahlens.se/kampanj/skonhet/weekend-deal",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-04-10T08:25:11.483748"
+      "last_seen": "2026-04-10T08:25:11.483748",
+      "ended": "2026-04-10T17:46:11.696832"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -272,5 +273,5 @@
       "ended": "2026-04-07T08:16:00.352529"
     }
   },
-  "last_check": "2026-04-10T08:26:24.371172"
+  "last_check": "2026-04-10T17:48:08.870838"
 }
