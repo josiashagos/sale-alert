@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-05-20T19:20:01.728644"
+      "last_seen": "2026-05-21T10:42:28.904399"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +133,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-05-20T19:21:22.024298"
+      "last_seen": "2026-05-21T10:43:10.446091"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-05-20T19:21:26.237641"
+      "last_seen": "2026-05-21T10:43:14.802506"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/mid-season-sale-2775",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-05-20T19:21:31.987735"
+      "last_seen": "2026-05-21T10:43:21.102712"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted//",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-05-20T19:22:04.579778"
+      "last_seen": "2026-05-21T10:43:52.916984"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,7 +212,7 @@
       "url": "https://www.endclothing.com/se/sale",
       "description": "Upp till 20% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-05-20T19:19:52.456330"
+      "last_seen": "2026-05-21T10:42:20.471757"
     },
     "Boozt Herr": {
       "active": false,
@@ -229,7 +229,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-05-20T19:21:02.734257"
+      "last_seen": "2026-05-21T10:42:49.710807"
     },
     "Très Bien": {
       "active": true,
@@ -237,7 +237,7 @@
       "url": "https://tres-bien.com/collections/sales",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-05-20T19:21:05.922647"
+      "last_seen": "2026-05-21T10:42:53.012670"
     },
     "Nike Herr": {
       "active": true,
@@ -245,7 +245,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-05-20T19:21:37.365220"
+      "last_seen": "2026-05-21T10:43:26.278955"
     },
     "Grandpa": {
       "active": true,
@@ -253,7 +253,7 @@
       "url": "https://www.grandpastore.com/se/sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-05-20T19:21:52.335010"
+      "last_seen": "2026-05-21T10:43:40.076492"
     },
     "Åhléns Herr": {
       "active": true,
@@ -261,7 +261,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-05-20T19:21:18.650084"
+      "last_seen": "2026-05-21T10:43:06.476481"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -273,5 +273,5 @@
       "ended": "2026-04-07T08:16:00.352529"
     }
   },
-  "last_check": "2026-05-20T19:22:36.564939"
+  "last_check": "2026-05-21T10:44:17.193405"
 }
