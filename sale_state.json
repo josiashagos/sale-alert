@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-05-29T10:50:55.701144"
+      "last_seen": "2026-05-29T19:31:22.067946"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +133,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-05-29T10:51:34.676114"
+      "last_seen": "2026-05-29T19:32:45.328133"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-05-29T10:51:39.266678"
+      "last_seen": "2026-05-29T19:32:49.698518"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/sale-2775",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-05-29T10:51:49.811065"
+      "last_seen": "2026-05-29T19:32:55.345976"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-05-29T10:52:18.801542"
+      "last_seen": "2026-05-29T19:33:24.751722"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,15 +212,16 @@
       "url": "https://www.endclothing.com/se/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-05-29T10:50:46.586800"
+      "last_seen": "2026-05-29T19:31:12.776491"
     },
     "Boozt Herr": {
-      "active": true,
+      "active": false,
       "store_name": "Boozt Herr",
       "url": "https://www.boozt.com/se/sv/klader-for-kvinnor/erbjudanden",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-05-29T10:51:05.934838"
+      "last_seen": "2026-05-29T10:51:05.934838",
+      "ended": "2026-05-29T19:31:33.697476"
     },
     "Caliroots": {
       "active": true,
@@ -228,7 +229,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-05-29T10:51:15.580108"
+      "last_seen": "2026-05-29T19:32:26.023966"
     },
     "Très Bien": {
       "active": true,
@@ -236,7 +237,7 @@
       "url": "https://tres-bien.com/collections/sales",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-05-29T10:51:18.860086"
+      "last_seen": "2026-05-29T19:32:29.351546"
     },
     "Nike Herr": {
       "active": true,
@@ -244,7 +245,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-05-29T10:51:54.810294"
+      "last_seen": "2026-05-29T19:33:00.480423"
     },
     "Grandpa": {
       "active": true,
@@ -252,7 +253,7 @@
       "url": "https://www.grandpastore.com/se/sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-05-29T10:52:08.778006"
+      "last_seen": "2026-05-29T19:33:14.442150"
     },
     "Åhléns Herr": {
       "active": true,
@@ -260,7 +261,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-05-29T10:51:30.811592"
+      "last_seen": "2026-05-29T19:32:41.540357"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -272,5 +273,5 @@
       "ended": "2026-04-07T08:16:00.352529"
     }
   },
-  "last_check": "2026-05-29T10:52:43.139762"
+  "last_check": "2026-05-29T19:33:49.150848"
 }
