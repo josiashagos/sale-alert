@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-06-13T09:58:54.591882"
+      "last_seen": "2026-06-13T18:05:38.623836"
     },
     "Boozt Men": {
       "active": true,
@@ -115,7 +115,7 @@
       "url": "https://www.nk.se/rea/dam",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:12:32.779491",
-      "last_seen": "2026-06-13T10:00:06.798146"
+      "last_seen": "2026-06-13T18:06:50.491757"
     },
     "Ahlens Herr": {
       "active": true,
@@ -132,7 +132,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "Upp till 24% rabatt",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-06-13T10:00:14.466650"
+      "last_seen": "2026-06-13T18:06:58.547709"
     },
     "Footish": {
       "active": true,
@@ -140,7 +140,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-06-13T10:00:18.666328"
+      "last_seen": "2026-06-13T18:07:03.276587"
     },
     "Solebox": {
       "active": false,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-06-13T10:00:52.555877"
+      "last_seen": "2026-06-13T18:07:38.522719"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -203,7 +203,7 @@
       "url": "https://www.acnestudios.com/se/en/sale/woman/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:16.737521",
-      "last_seen": "2026-06-13T09:58:28.832892"
+      "last_seen": "2026-06-13T18:05:12.056562"
     },
     "END Clothing": {
       "active": true,
@@ -211,7 +211,7 @@
       "url": "https://www.endclothing.com/se/sale/all-sale",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-06-13T09:58:45.209535"
+      "last_seen": "2026-06-13T18:05:29.514806"
     },
     "Boozt Herr": {
       "active": false,
@@ -223,12 +223,13 @@
       "ended": "2026-06-13T09:59:06.386395"
     },
     "Caliroots": {
-      "active": true,
+      "active": false,
       "store_name": "Caliroots",
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-06-13T09:59:58.649433"
+      "last_seen": "2026-06-13T09:59:58.649433",
+      "ended": "2026-06-13T18:06:42.181502"
     },
     "Très Bien": {
       "active": true,
@@ -236,7 +237,7 @@
       "url": "https://tres-bien.com/en-us/pages/summer-sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-06-13T10:00:02.131195"
+      "last_seen": "2026-06-13T18:06:45.847067"
     },
     "Nike Herr": {
       "active": true,
@@ -244,7 +245,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-06-13T10:00:28.443856"
+      "last_seen": "2026-06-13T18:07:13.779734"
     },
     "Grandpa": {
       "active": true,
@@ -252,7 +253,7 @@
       "url": "https://www.grandpastore.com/se/sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-06-13T10:00:42.850812"
+      "last_seen": "2026-06-13T18:07:28.561828"
     },
     "Åhléns Herr": {
       "active": true,
@@ -260,7 +261,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 31% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-06-13T10:00:10.431426"
+      "last_seen": "2026-06-13T18:06:53.993237"
     },
     "Samsøe Samsøe": {
       "active": true,
@@ -268,8 +269,8 @@
       "url": "javascript:TogglePage(this, 'coiPage-3');",
       "description": "Upp till 40% rabatt",
       "first_seen": "2026-03-23T08:04:47.302902",
-      "last_seen": "2026-06-13T09:58:25.132560"
+      "last_seen": "2026-06-13T18:05:08.151542"
     }
   },
-  "last_check": "2026-06-13T10:01:17.412622"
+  "last_check": "2026-06-13T18:08:03.392912"
 }
