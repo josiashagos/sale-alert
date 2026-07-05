@@ -87,9 +87,9 @@
       "active": true,
       "store_name": "SSENSE",
       "url": "https://www.ssense.com/en-se/men/sale",
-      "description": "REA pågår",
+      "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-07-05T09:45:25.206825"
+      "last_seen": "2026-07-05T17:59:04.212452"
     },
     "Boozt Men": {
       "active": true,
@@ -115,7 +115,7 @@
       "url": "https://www.nk.se/rea/dam",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:12:32.779491",
-      "last_seen": "2026-07-05T09:46:34.184259"
+      "last_seen": "2026-07-05T18:00:13.272661"
     },
     "Ahlens Herr": {
       "active": true,
@@ -132,7 +132,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-07-05T09:46:41.852873"
+      "last_seen": "2026-07-05T18:00:20.322784"
     },
     "Footish": {
       "active": true,
@@ -140,16 +140,15 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-07-05T09:46:47.263743"
+      "last_seen": "2026-07-05T18:00:25.088540"
     },
     "Solebox": {
-      "active": false,
+      "active": true,
       "store_name": "Solebox",
       "url": "https://www.solebox.com/en-int/c/summer-sale-2775",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-07-04T18:02:08.288216",
-      "ended": "2026-07-05T09:46:52.511843"
+      "last_seen": "2026-07-05T18:00:34.263194"
     },
     "Nike": {
       "active": true,
@@ -176,7 +175,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/outlet/suits/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-07-05T09:47:22.887685"
+      "last_seen": "2026-07-05T18:01:04.010989"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -194,7 +193,7 @@
       "url": "https://www.careofcarl.se/sv/realisation",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:15:57.078604",
-      "last_seen": "2026-07-05T09:47:45.242939"
+      "last_seen": "2026-07-05T18:01:25.146103"
     },
     "Acne Studios": {
       "active": true,
@@ -202,7 +201,7 @@
       "url": "https://www.acnestudios.com/se/en/sale/woman/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:16.737521",
-      "last_seen": "2026-07-05T09:45:03.020150"
+      "last_seen": "2026-07-05T17:58:40.127767"
     },
     "END Clothing": {
       "active": true,
@@ -210,15 +209,16 @@
       "url": "https://www.endclothing.com/se/sale/all-sale",
       "description": "Upp till 55% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-07-05T09:45:16.567163"
+      "last_seen": "2026-07-05T17:58:55.415256"
     },
     "Boozt Herr": {
-      "active": true,
+      "active": false,
       "store_name": "Boozt Herr",
       "url": "https://www.boozt.com/se/sv/klader-for-kvinnor/erbjudanden",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-07-05T09:45:36.684411"
+      "last_seen": "2026-07-05T09:45:36.684411",
+      "ended": "2026-07-05T17:59:16.258954"
     },
     "Caliroots": {
       "active": true,
@@ -226,7 +226,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-07-05T09:46:26.228981"
+      "last_seen": "2026-07-05T18:00:05.222082"
     },
     "Très Bien": {
       "active": true,
@@ -234,7 +234,7 @@
       "url": "https://tres-bien.com/en-us/pages/summer-sale",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-07-05T09:46:29.515480"
+      "last_seen": "2026-07-05T18:00:08.621355"
     },
     "Nike Herr": {
       "active": true,
@@ -242,7 +242,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-07-05T09:46:57.474139"
+      "last_seen": "2026-07-05T18:00:39.321714"
     },
     "Grandpa": {
       "active": true,
@@ -250,7 +250,7 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-07-05T09:47:11.938100"
+      "last_seen": "2026-07-05T18:00:53.665813"
     },
     "Åhléns Herr": {
       "active": true,
@@ -258,7 +258,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-07-05T09:46:38.017009"
+      "last_seen": "2026-07-05T18:00:16.702138"
     },
     "Samsøe Samsøe": {
       "active": true,
@@ -266,7 +266,7 @@
       "url": "javascript:TogglePage(this, 'coiPage-3');",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-03-23T08:04:47.302902",
-      "last_seen": "2026-07-05T09:44:58.937627"
+      "last_seen": "2026-07-05T17:58:36.515936"
     },
     "Norse Projects": {
       "active": true,
@@ -274,7 +274,7 @@
       "url": "https://www.norseprojects.com/collections/ss26-end-of-season-sale",
       "description": "REA pågår",
       "first_seen": "2026-06-29T12:02:31.010891",
-      "last_seen": "2026-07-05T09:45:06.428567"
+      "last_seen": "2026-07-05T17:58:43.408341"
     },
     "Our Legacy": {
       "active": true,
@@ -282,8 +282,8 @@
       "url": "https://www.ourlegacy.com/sale/sale-mens",
       "description": "Upp till 40% rabatt",
       "first_seen": "2026-07-01T10:44:37.779402",
-      "last_seen": "2026-07-05T09:44:55.731147"
+      "last_seen": "2026-07-05T17:58:33.510304"
     }
   },
-  "last_check": "2026-07-05T09:47:45.501412"
+  "last_check": "2026-07-05T18:01:25.249560"
 }
