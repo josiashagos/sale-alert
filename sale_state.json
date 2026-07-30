@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-07-30T09:34:07.520214"
+      "last_seen": "2026-07-30T18:12:57.155230"
     },
     "Boozt Men": {
       "active": true,
@@ -142,7 +142,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-07-30T09:35:00.542425"
+      "last_seen": "2026-07-30T18:13:52.531583"
     },
     "Solebox": {
       "active": false,
@@ -178,7 +178,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/outlet/suits/",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-07-30T09:35:38.237928"
+      "last_seen": "2026-07-30T18:14:28.871894"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -196,7 +196,7 @@
       "url": "https://www.careofcarl.se/sv/realisation",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:15:57.078604",
-      "last_seen": "2026-07-30T09:35:59.573123"
+      "last_seen": "2026-07-30T18:14:51.739514"
     },
     "Acne Studios": {
       "active": true,
@@ -204,7 +204,7 @@
       "url": "https://www.acnestudios.com/se/en/sale/woman/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:16.737521",
-      "last_seen": "2026-07-30T09:33:42.970064"
+      "last_seen": "2026-07-30T18:12:32.763675"
     },
     "END Clothing": {
       "active": true,
@@ -212,16 +212,15 @@
       "url": "https://www.endclothing.com/se/sale/all-sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-07-30T09:33:58.386758"
+      "last_seen": "2026-07-30T18:12:48.213393"
     },
     "Boozt Herr": {
-      "active": false,
+      "active": true,
       "store_name": "Boozt Herr",
       "url": "https://www.boozt.com/se/sv/klader-for-kvinnor/erbjudanden",
-      "description": "REA pågår",
+      "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-07-29T18:13:58.254570",
-      "ended": "2026-07-30T09:34:19.606930"
+      "last_seen": "2026-07-30T18:13:09.747556"
     },
     "Caliroots": {
       "active": false,
@@ -247,7 +246,7 @@
       "url": "https://www.nike.com/se/w/fotboll-skor-1gdj0zy7ok",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-07-30T09:35:10.791248"
+      "last_seen": "2026-07-30T18:14:02.801771"
     },
     "Grandpa": {
       "active": true,
@@ -255,7 +254,7 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-07-30T09:35:25.845898"
+      "last_seen": "2026-07-30T18:14:18.045851"
     },
     "Åhléns Herr": {
       "active": true,
@@ -263,7 +262,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-07-30T09:34:49.775439"
+      "last_seen": "2026-07-30T18:13:40.795312"
     },
     "Samsøe Samsøe": {
       "active": true,
@@ -271,7 +270,7 @@
       "url": "javascript:TogglePage(this, 'coiPage-3');",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-03-23T08:04:47.302902",
-      "last_seen": "2026-07-30T09:33:39.305581"
+      "last_seen": "2026-07-30T18:12:28.620361"
     },
     "Norse Projects": {
       "active": true,
@@ -279,7 +278,7 @@
       "url": "https://www.norseprojects.com/collections/ss26-end-of-season-sale",
       "description": "REA pågår",
       "first_seen": "2026-06-29T12:02:31.010891",
-      "last_seen": "2026-07-30T09:33:46.363954"
+      "last_seen": "2026-07-30T18:12:36.688562"
     },
     "Our Legacy": {
       "active": true,
@@ -287,8 +286,8 @@
       "url": "https://www.ourlegacy.com/sale/sale-mens",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-07-01T10:44:37.779402",
-      "last_seen": "2026-07-30T09:33:36.290948"
+      "last_seen": "2026-07-30T18:12:25.548651"
     }
   },
-  "last_check": "2026-07-30T09:35:59.573190"
+  "last_check": "2026-07-30T18:14:51.963553"
 }
