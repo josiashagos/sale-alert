@@ -134,7 +134,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-08-04T09:41:40.662141"
+      "last_seen": "2026-08-04T18:26:58.070480"
     },
     "Footish": {
       "active": true,
@@ -142,15 +142,16 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-08-04T09:41:45.072456"
+      "last_seen": "2026-08-04T18:27:02.803869"
     },
     "Solebox": {
-      "active": true,
+      "active": false,
       "store_name": "Solebox",
       "url": "https://www.solebox.com/en-int/c/summer-sale-2775",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-08-04T09:42:25.026615"
+      "last_seen": "2026-08-04T09:42:25.026615",
+      "ended": "2026-08-04T18:27:48.301060"
     },
     "Nike": {
       "active": true,
@@ -177,7 +178,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/outlet/suits/",
       "description": "Upp till 60% rabatt",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-08-04T09:42:58.918900"
+      "last_seen": "2026-08-04T18:28:17.239463"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -195,7 +196,7 @@
       "url": "https://www.careofcarl.se/sv/realisation",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:15:57.078604",
-      "last_seen": "2026-08-04T09:43:21.462783"
+      "last_seen": "2026-08-04T18:28:39.545965"
     },
     "Acne Studios": {
       "active": false,
@@ -212,7 +213,7 @@
       "url": "https://www.endclothing.com/se/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-08-04T09:40:49.937054"
+      "last_seen": "2026-08-04T18:26:06.522776"
     },
     "Boozt Herr": {
       "active": false,
@@ -229,7 +230,7 @@
       "url": "https://caliroots.com/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-08-04T09:41:21.879614"
+      "last_seen": "2026-08-04T18:26:38.953199"
     },
     "Très Bien": {
       "active": true,
@@ -237,7 +238,7 @@
       "url": "https://tres-bien.com/en-us/pages/summer-sale",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-08-04T09:41:25.020139"
+      "last_seen": "2026-08-04T18:26:42.230707"
     },
     "Nike Herr": {
       "active": true,
@@ -245,7 +246,7 @@
       "url": "https://www.nike.com/se/w/fotboll-skor-1gdj0zy7ok",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-08-04T09:42:29.889065"
+      "last_seen": "2026-08-04T18:27:52.921328"
     },
     "Grandpa": {
       "active": true,
@@ -253,7 +254,7 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-08-04T09:42:48.883594"
+      "last_seen": "2026-08-04T18:28:07.390770"
     },
     "Åhléns Herr": {
       "active": true,
@@ -261,7 +262,7 @@
       "url": "https://www.ahlens.se/kampanj",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-08-04T09:41:37.183613"
+      "last_seen": "2026-08-04T18:26:54.510968"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -273,12 +274,13 @@
       "ended": "2026-08-03T10:45:56.983768"
     },
     "Norse Projects": {
-      "active": true,
+      "active": false,
       "store_name": "Norse Projects",
       "url": "https://www.norseprojects.com/collections/ss26-end-of-season-sale",
       "description": "REA pågår",
       "first_seen": "2026-06-29T12:02:31.010891",
-      "last_seen": "2026-08-04T09:40:40.181466"
+      "last_seen": "2026-08-04T09:40:40.181466",
+      "ended": "2026-08-04T18:25:54.208277"
     },
     "Our Legacy": {
       "active": false,
@@ -290,5 +292,5 @@
       "ended": "2026-07-31T18:17:59.920596"
     }
   },
-  "last_check": "2026-08-04T09:43:21.462988"
+  "last_check": "2026-08-04T18:28:39.546201"
 }
