@@ -84,12 +84,13 @@
       "ended": "2026-02-08T19:53:48.778642"
     },
     "SSENSE": {
-      "active": true,
+      "active": false,
       "store_name": "SSENSE",
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-08-31T21:44:28.818640"
+      "last_seen": "2026-08-31T21:44:28.818640",
+      "ended": "2026-09-01T12:27:35.927948"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +134,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-08-31T21:45:49.525889"
+      "last_seen": "2026-09-01T12:29:04.144879"
     },
     "Footish": {
       "active": true,
@@ -141,15 +142,15 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-08-31T21:45:53.721536"
+      "last_seen": "2026-09-01T12:29:08.742590"
     },
     "Solebox": {
       "active": true,
       "store_name": "Solebox",
       "url": "https://www.solebox.com/en-int/c/sale-2775",
-      "description": "Upp till 25% rabatt",
+      "description": "REA pågår",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-08-31T21:45:59.256286"
+      "last_seen": "2026-09-01T12:29:14.102369"
     },
     "Nike": {
       "active": true,
@@ -176,7 +177,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-08-31T21:46:29.243332"
+      "last_seen": "2026-09-01T12:29:45.942911"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,7 +213,7 @@
       "url": "https://www.endclothing.com/se/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-08-31T21:44:19.940368"
+      "last_seen": "2026-09-01T12:27:25.638789"
     },
     "Boozt Herr": {
       "active": false,
@@ -229,7 +230,7 @@
       "url": "https://caliroots.com",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-08-31T21:45:30.246892"
+      "last_seen": "2026-09-01T12:28:40.410326"
     },
     "Très Bien": {
       "active": true,
@@ -237,7 +238,7 @@
       "url": "https://tres-bien.com/en-us/pages/summer-sale",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-08-31T21:45:33.479902"
+      "last_seen": "2026-09-01T12:28:43.849686"
     },
     "Nike Herr": {
       "active": true,
@@ -245,7 +246,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-08-31T21:46:04.480529"
+      "last_seen": "2026-09-01T12:29:19.824822"
     },
     "Grandpa": {
       "active": true,
@@ -253,15 +254,16 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 50% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-08-31T21:46:18.740689"
+      "last_seen": "2026-09-01T12:29:34.029357"
     },
     "Åhléns Herr": {
-      "active": true,
+      "active": false,
       "store_name": "Åhléns Herr",
       "url": "https://support.ahlens.se/hc/sv/categories/5438619282961-Betalning-Rabatter-Erbjudanden",
       "description": "Upp till 25% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-08-31T21:45:45.792943"
+      "last_seen": "2026-08-31T21:45:45.792943",
+      "ended": "2026-09-01T12:29:00.022713"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -291,5 +293,5 @@
       "ended": "2026-07-31T18:17:59.920596"
     }
   },
-  "last_check": "2026-08-31T21:46:55.723512"
+  "last_check": "2026-09-01T12:30:11.183306"
 }
