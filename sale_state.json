@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-11-07T13:48:54.160060"
+      "last_seen": "2026-11-07T20:39:40.173472"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +133,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-11-07T13:50:17.824826"
+      "last_seen": "2026-11-07T20:41:04.310409"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-11-07T13:50:23.165402"
+      "last_seen": "2026-11-07T20:41:09.426388"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/sale-2775",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-11-07T13:50:29.629527"
+      "last_seen": "2026-11-07T20:41:15.604433"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-11-07T13:51:00.869967"
+      "last_seen": "2026-11-07T20:42:26.464884"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,7 +212,7 @@
       "url": "https://www.endclothing.com/en-eu/collections/sale",
       "description": "Upp till 15% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-11-07T13:48:45.287847"
+      "last_seen": "2026-11-07T20:39:31.418801"
     },
     "Boozt Herr": {
       "active": true,
@@ -220,7 +220,7 @@
       "url": "https://www.boozt.com/se/sv/officiell-rabattkod",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-11-07T13:49:06.040187"
+      "last_seen": "2026-11-07T20:39:51.033200"
     },
     "Caliroots": {
       "active": true,
@@ -228,7 +228,7 @@
       "url": "https://caliroots.com/products/dickies-glacier-view-puffer-irish-cream",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-11-07T13:49:58.336361"
+      "last_seen": "2026-11-07T20:40:43.451676"
     },
     "Très Bien": {
       "active": true,
@@ -236,7 +236,7 @@
       "url": "https://tres-bien.com/pages/mid-season-sale",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-11-07T13:50:01.584617"
+      "last_seen": "2026-11-07T20:40:46.956353"
     },
     "Nike Herr": {
       "active": true,
@@ -244,7 +244,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "Upp till 29% rabatt",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-11-07T13:50:34.961953"
+      "last_seen": "2026-11-07T20:41:20.975961"
     },
     "Grandpa": {
       "active": true,
@@ -252,7 +252,7 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-11-07T13:50:49.752411"
+      "last_seen": "2026-11-07T20:42:15.802877"
     },
     "Åhléns Herr": {
       "active": true,
@@ -260,7 +260,7 @@
       "url": "https://www.ahlens.se/dam/erbjudanden",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-11-07T13:50:13.885852"
+      "last_seen": "2026-11-07T20:41:00.110447"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -290,5 +290,5 @@
       "ended": "2026-07-31T18:17:59.920596"
     }
   },
-  "last_check": "2026-11-07T13:51:27.152387"
+  "last_check": "2026-11-07T20:42:52.729876"
 }
