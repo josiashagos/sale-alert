@@ -89,7 +89,7 @@
       "url": "https://www.ssense.com/en-se/men/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:11:14.162783",
-      "last_seen": "2026-11-12T15:52:13.941123"
+      "last_seen": "2026-11-12T22:33:01.526342"
     },
     "Boozt Men": {
       "active": true,
@@ -133,7 +133,7 @@
       "url": "https://www.sneakersnstuff.com/en-se/collections/sale",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:12:45.358962",
-      "last_seen": "2026-11-12T15:52:55.025207"
+      "last_seen": "2026-11-12T22:34:19.386672"
     },
     "Footish": {
       "active": true,
@@ -141,7 +141,7 @@
       "url": "https://www.footish.se/sneakers/nike/air-max-270-react",
       "description": "Upp till 80% rabatt",
       "first_seen": "2026-02-08T19:13:01.605809",
-      "last_seen": "2026-11-12T15:52:59.465906"
+      "last_seen": "2026-11-12T22:34:24.451571"
     },
     "Solebox": {
       "active": true,
@@ -149,7 +149,7 @@
       "url": "https://www.solebox.com/en-int/c/singles-day-sale-3736",
       "description": "Upp till 30% rabatt",
       "first_seen": "2026-02-08T19:13:11.934887",
-      "last_seen": "2026-11-12T15:53:04.987502"
+      "last_seen": "2026-11-12T22:34:30.198078"
     },
     "Nike": {
       "active": true,
@@ -176,7 +176,7 @@
       "url": "https://www.oscarjacobson.com/en-eu/mens-clothing/suits/category/single-breasted/",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:14:39.904775",
-      "last_seen": "2026-11-12T15:53:37.297018"
+      "last_seen": "2026-11-12T22:34:59.033398"
     },
     "Brixtol Textiles": {
       "active": false,
@@ -212,16 +212,15 @@
       "url": "https://www.endclothing.com/en-eu/collections/sale",
       "description": "Upp till 15% rabatt",
       "first_seen": "2026-02-08T19:53:43.383946",
-      "last_seen": "2026-11-12T15:52:05.041561"
+      "last_seen": "2026-11-12T22:32:53.342470"
     },
     "Boozt Herr": {
-      "active": false,
+      "active": true,
       "store_name": "Boozt Herr",
       "url": "https://www.boozt.com/se/sv/officiell-rabattkod",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:03.525627",
-      "last_seen": "2026-11-11T23:17:00.274341",
-      "ended": "2026-11-12T15:52:25.902703"
+      "last_seen": "2026-11-12T22:33:12.099574"
     },
     "Caliroots": {
       "active": true,
@@ -229,7 +228,7 @@
       "url": "https://caliroots.com/products/dickies-glacier-view-puffer-irish-cream",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:54:54.814721",
-      "last_seen": "2026-11-12T15:52:35.713735"
+      "last_seen": "2026-11-12T22:34:00.900551"
     },
     "Très Bien": {
       "active": true,
@@ -237,7 +236,7 @@
       "url": "https://tres-bien.com/pages/mid-season-sale",
       "description": "Upp till 70% rabatt",
       "first_seen": "2026-02-08T19:54:58.081471",
-      "last_seen": "2026-11-12T15:52:38.910358"
+      "last_seen": "2026-11-12T22:34:04.028415"
     },
     "Nike Herr": {
       "active": true,
@@ -245,7 +244,7 @@
       "url": "https://www.nike.com/se/w/man-rea-3yaepznik1",
       "description": "REA pågår",
       "first_seen": "2026-02-08T19:55:32.152234",
-      "last_seen": "2026-11-12T15:53:09.964537"
+      "last_seen": "2026-11-12T22:34:34.667605"
     },
     "Grandpa": {
       "active": true,
@@ -253,7 +252,7 @@
       "url": "https://www.grandpastore.com/se/summer-sale",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-08T19:56:26.626684",
-      "last_seen": "2026-11-12T15:53:24.764263"
+      "last_seen": "2026-11-12T22:34:48.472614"
     },
     "Åhléns Herr": {
       "active": true,
@@ -261,7 +260,7 @@
       "url": "https://www.ahlens.se/dam/erbjudanden",
       "description": "Upp till 10% rabatt",
       "first_seen": "2026-02-10T08:03:16.898289",
-      "last_seen": "2026-11-12T15:52:51.394749"
+      "last_seen": "2026-11-12T22:34:15.936995"
     },
     "Samsøe Samsøe": {
       "active": false,
@@ -300,5 +299,5 @@
       "ended": "2026-11-10T22:06:48.286837"
     }
   },
-  "last_check": "2026-11-12T15:54:02.511202"
+  "last_check": "2026-11-12T22:35:23.713453"
 }
